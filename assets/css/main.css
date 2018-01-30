@@ -2088,6 +2088,11 @@
 	text-align: center;
 }
 
+.advisor {
+	font-weight: bolder;
+	margin-top: 40px; 
+}
+
 /* Footer */
 
 	#footer {
