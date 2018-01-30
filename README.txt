@@ -1,28 +1,19 @@
-Tessellate by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+TouchBadge is a new way to network. 
 
-
-This is Tessellate, a brand new responsive site template by AJ for HTML5 UP. It's a
-single pager (a format I'm pretty into right now), has styling for a crapload of
-basic elements, and includes a handy "dark" modifier class to flip a given element
-to a light-on-dark color scheme.
-
-Demo images* courtesy of Felicia Simion, a highly creative photographer/artist
-friend of mine over at deviantART. See more of her incredible work here:
-
-http://ineedchemicalx.deviantart.com/
-
-(* = Not included! Only meant for use with my own on-site demo, so please do NOT download
-and/or use any of Felicia's work without her explicit permission!)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+Conferences exist to cater to almost every industry, and some companies hold conferences
+ entirely dedicated to their own customers. Theses events are prime locations for networking
+ with other people in the industry as well as potential customers. For vendors at these events,
+ conference badges are an important tool as they allow for the collection of attendee data for
+ future contact. TouchBadge looks to bring that kind of experience to every conference attendee.
+ Working with hardware partner Breadware, Inc., we are developing TouchBadge, a smart conference
+ badge. TouchBadge allows the transfer of contact information between attendees wirelessly and without
+ an external reader. Once obtained, contacts are stored in the cloud for later retrieval and are
+ exportable to the users customer relationship management (CRM) software of their choice. 
 
 
 Credits:
+
+	The website template is Tessellate by HTML5 UP
 
 	Demo Images:
 		Felicia Simion (ineedchemicalx.deviantart.com)
