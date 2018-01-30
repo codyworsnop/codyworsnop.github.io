@@ -2012,6 +2012,7 @@
 			line-height: 1.25em;
 			margin-bottom: 0;
 			font-weight: bolder;
+    			text-shadow: 1px 1px #000000;
 		}
 
 		#header header p {
@@ -2021,6 +2022,7 @@
 			font-size: 1.25em;
 			line-height: 1.5em;
 			text-align: center;
+			text-shadow: 1px 1px #000000;
 		}
 
 		#header footer {
